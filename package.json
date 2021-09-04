@@ -1,8 +1,4 @@
 {
-  "name": "webpack-project",
-  "version": "1.0.0",
-  "description": "\"# webpack-config\"",
-  "main": "index.js",
   "private": true,
   "scripts": {
     "start": "webpack serve",
